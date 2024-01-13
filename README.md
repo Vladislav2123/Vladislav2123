@@ -28,7 +28,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" width="30px"> Активность
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav2123&theme=github-compact&line=474648&hide_title=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav2123&theme=github-compact&line=474648&hide_title=true&hide_border=true)
 
 ---
 
