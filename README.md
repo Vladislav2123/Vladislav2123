@@ -11,8 +11,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" width="30px"> Контакты
 [![Static Badge](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335)](mailto:mangushev211104@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white&color=%2326A5E4)
-](https://t.me/Vladislav_2123)
+[![Static Badge](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white&color=%2326A5E4)](https://t.me/Vladislav_2123)
 
 ---
 
@@ -23,6 +22,7 @@
 [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Postgres](https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgreSQL&logoColor=white&color=4169E1)](https://www.postgresql.org/)
 [![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-white?style=for-the-badge&logo=Microsoft%20SQL%20Server&color=%23CC2927)](https://www.microsoft.com/ru-ru/sql-server/sql-server-2019)
+![Chat GPT](https://img.shields.io/badge/Chat%20GPT-412991?style=for-the-badge&logo=OpenAI)
 [![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=Unity&color=%23000000)](https://unity.com)
 
 ---
