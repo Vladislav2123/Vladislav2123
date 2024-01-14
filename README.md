@@ -1,7 +1,7 @@
 # Привет! Меня зовут Владислав <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" width="40x"> 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="30x"> Обо мне:
-Я занимаюсь разработкой на __C#__ с начала 2021 года. С февраля 2022 года до сентября 2023 года я работал __Unity__ разработчиком в двух разных студиях, после чего начал изучать __Backend__ разработку на платформе __ASP.NET Core__.  
+Я занимаюсь разработкой на __C#__ с начала 2021 года. С февраля 2022 года до октября 2023 года я работал __Unity__ разработчиком в двух геймдев студиях, после чего начал изучать __Backend__ разработку на платформе __ASP.NET Core__.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="20px">
 В геймдев студиях мне довелось работать над __20__ мобильными играми. __15__ из них были опубликованы в __Google Play__ и __App Store__.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="20px">
