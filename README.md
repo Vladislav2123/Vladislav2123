@@ -27,4 +27,6 @@ __C#__ и платформа __.NET Core__ очень вдохновляют м�
 [![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=Unity&color=%23000000)](https://unity.com)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" width="30px"> Активность
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav2123&theme=github-compact&line=474648&hide_title=true&hide_border=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav2123&theme=gitgub-compact&bg_color=0d1117&color=8b949e&line=474648&point=8b949e&area=true&area_color=4A525E&hide_border=true&hide_title=true)
+161B22
+161B22161B22
