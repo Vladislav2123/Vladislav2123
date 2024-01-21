@@ -7,9 +7,9 @@
 __C#__ и платформа __.NET Core__ очень вдохновляют меня на их изучение от корки до корки и разработку программного обеспечения с их использованием!  
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" width="30px"> Контакты
+[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mangushev)
 [![Static Badge](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335)](mailto:mangushev.net@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white&color=%2326A5E4)](https://t.me/Vladislav_2123)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mangushev)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="30"/> Навыки и инструменты
