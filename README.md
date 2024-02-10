@@ -19,6 +19,7 @@ __C#__ и платформа __.NET Core__ очень вдохновляют м�
 [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Postgres](https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgreSQL&logoColor=white&color=4169E1)](https://www.postgresql.org/)
 [![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-white?style=for-the-badge&logo=Microsoft%20SQL%20Server&color=%23CC2927)](https://www.microsoft.com/ru-ru/sql-server/sql-server-2019)
+[![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=Redis&color=%23DC382D&logoColor=white)](https://redis.io/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-white?style=for-the-badge&logo=Visual%20Studio&color=5C2D91)](https://visualstudio.microsoft.com/ru/)
 [![VS Code](https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&color=007ACC)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
