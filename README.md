@@ -1,10 +1,8 @@
 # Привет! Меня зовут Владислав <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="40x"> 
 
-Я занимаюсь разработкой на __C#__ с начала __2021__ года.  
-• __С начала 2022 года__ в течение __2 лет__ я работал разработчиком мобильных игр на __C# & Unity__ в двух разных студиях. За всю карьеру в геймдеве я работал над __20__ мобильными играми, которые были опубликованы в __Google Play__ и __App Store__.  
-• __С сентября 2023 года__ я занимаюсь __Backend__ разработкой на платформе __ASP.NET Core__, и в данный момент ищу работу в данном направлении.  
-
-__C#__ и платформа __.NET Core__ очень вдохновляют меня на их изучение от корки до корки и разработку программного обеспечения с их использованием!  
+Я занимаюсь разработкой на __C# 3 года__.  
+• __2 года__ я занимаюсь разработкой мобильных игр на __C# & Unity__. За всю карьеру в геймдеве я работал над __20__ проектами, публиковавшихся в __Google Play__ и __App Store__.  
+• __С сентября 2023 года__ я также занимаюсь __Backend__ разработкой на платформе __ASP.NET Core__.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" width="30px"> Контакты
 [![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/mangushev)
